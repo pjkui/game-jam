@@ -1,0 +1,18 @@
+{
+  "name": "wego1st",
+  "version": "1.0.0",
+  "description": "the first game demo for the game jam 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "demo"
+  ],
+  "author": "No1Team",
+  "license": "MIT",
+  "dependencies": {
+    "babylonjs": "^4.0.3"
+  }
+}
